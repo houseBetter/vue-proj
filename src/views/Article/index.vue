@@ -11,7 +11,7 @@
 </template>
 <script>
 export default {
-  name: 'Header',
+  name: 'Article',
   props: ['title', 'content'],
   // data: function() {
   //   return {
