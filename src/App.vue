@@ -1,18 +1,21 @@
 <template>
   <div id="app">
-    <el-container>
-      <Header></Header>
-      <!-- <router-view></router-view> -->
-    </el-container>
+      <Article :title="title" :content="content"></Article>
   </div>
 </template>
 
 <script>
-import Header from '@/views/Header'
+import Article from '@/views/Article'
 export default {
   name: 'App',
+  data: function() {
+    return {
+      title: 'Hello Vue',
+      content: '这是文章的内容哦！！！'
+    }
+  },
   components: {
-    Header
+    Article
   }
 }
 </script>
