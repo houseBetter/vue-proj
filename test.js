@@ -25,4 +25,6 @@ function f5() {
 function f6() {
   console.log();
 }
+function f7() {
 
+}
