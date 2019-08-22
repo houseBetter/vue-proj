@@ -9,3 +9,4 @@ function plus(a,b) {
 function sp() {
   return 'sp'
 }
+sp();
