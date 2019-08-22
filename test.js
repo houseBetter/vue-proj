@@ -22,4 +22,7 @@ function f4() {
 function f5() {
 
 }
+function f6() {
+
+}
 
