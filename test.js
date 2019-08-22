@@ -6,3 +6,6 @@ function sum(a,b) {
 function plus(a,b) {
   return a-b;
 }
+function sp() {
+  return 'sp'
+}
