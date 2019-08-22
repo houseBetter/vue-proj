@@ -10,3 +10,6 @@ function sp() {
   return 'sp'
 }
 sp();
+function f1() {
+
+}
