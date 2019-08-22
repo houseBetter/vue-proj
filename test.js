@@ -19,4 +19,7 @@ function f3() {
 function f4() {
 
 }
+function f5() {
+
+}
 
